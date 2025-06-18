@@ -149,7 +149,7 @@ const productos = [
 // Función para redirigir a WhatsApp
 function redirigirWhatsApp(productoId) {
     // Reemplaza con tu número de teléfono (elimina los ceros, paréntesis y guiones)
-    const telefono = '521234567890';
+    const telefono = '5355105070';
     
     // Mensaje personalizado (puedes modificarlo)
     const mensaje = `¡Hola! Estoy interesado en el producto ${productoId}. ¿Podrían darme más información?`;
