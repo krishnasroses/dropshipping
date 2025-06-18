@@ -1,0 +1,164 @@
+[
+    {
+        "id": "0008",
+        "description": "Vestido ajustado y corto cuello alto conm mangas acampanadas",
+        "image_url": "",
+        "size": "M",
+        "color": "Rojo",
+        "price": 15,
+        "currency": "USD"
+    },
+    {
+        "id": "0009",
+        "description": "Vestido ajustado y corto cuello alto conm mangas acampanadas",
+        "image_url": "",
+        "size": "M",
+        "color": "Gris",
+        "price": 4,
+        "currency": "USD"
+    },
+    {
+        "id": "0012",
+        "description": "Vestido  de verano sin mangas con estampado blanco y negro",
+        "image_url": "",
+        "size": "S",
+        "color": "Blanco/Negro",
+        "price": 8,
+        "currency": "USD"
+    },
+    {
+        "id": "0013",
+        "description": "Falda estampada",
+        "image_url": "",
+        "size": "M",
+        "color": "Blanco/Negro",
+        "price": 7,
+        "currency": "USD"
+    },
+    {
+        "id": "0014",
+        "description": "Camiseta estampado mariposa",
+        "image_url": "",
+        "size": "S",
+        "color": "Negro",
+        "price": 5,
+        "currency": "USD"
+    },
+    {
+        "id": "0015",
+        "description": "Camiseta estampado mariposa",
+        "image_url": "",
+        "size": "M",
+        "color": "Verde",
+        "price": 5,
+        "currency": "USD"
+    },
+    {
+        "id": "0016",
+        "description": "Vestido con estampado de plantas cuello halter",
+        "image_url": "",
+        "size": "M",
+        "color": "Multicolor",
+        "price": 7,
+        "currency": "USD"
+    },
+    {
+        "id": "0017",
+        "description": "Vestido con estampado pavo real y mangas campanas",
+        "image_url": "",
+        "size": "M",
+        "color": "Verde",
+        "price": 10,
+        "currency": "USD"
+    },
+    {
+        "id": "0018",
+        "description": "Vestido elegante con rosa",
+        "image_url": "",
+        "size": "M",
+        "color": "Blanco/Negro",
+        "price": 13,
+        "currency": "USD"
+    },
+    {
+        "id": "0022",
+        "description": "vestido sin mangas con cuello alto y estampado negro",
+        "image_url": "",
+        "size": "M",
+        "color": "Multicolor",
+        "price": 7,
+        "currency": "USD"
+    },
+    {
+        "id": "0027",
+        "description": "Vestido de tirantes estampado pavo real",
+        "image_url": "",
+        "size": "M",
+        "color": "Negro",
+        "price": 8,
+        "currency": "USD"
+    },
+    {
+        "id": "0030",
+        "description": "Vestido sin mangas ,cuello halter",
+        "image_url": "",
+        "size": "M",
+        "color": "Multicolor",
+        "price": 12,
+        "currency": "USD"
+    },
+    {
+        "id": "0031",
+        "description": "Vestido sin mangas con parche terciopelo",
+        "image_url": "",
+        "size": "M",
+        "color": "Rojo",
+        "price": 15,
+        "currency": "USD"
+    },
+    {
+        "id": "0032",
+        "description": "Vestido  de cuello alto fruncido",
+        "image_url": "",
+        "size": "M",
+        "color": "Marrón",
+        "price": 10,
+        "currency": "USD"
+    },
+    {
+        "id": "0035",
+        "description": "Vestido corto sencillo cuello v y calado",
+        "image_url": "",
+        "size": "S",
+        "color": "Caqui",
+        "price": 10,
+        "currency": "USD"
+    },
+    {
+        "id": "0036",
+        "description": "Conjunto de dos piezas con camisola y pantalon",
+        "image_url": "",
+        "size": "M",
+        "color": "Caqui",
+        "price": 20,
+        "currency": "USD"
+    },
+    {
+        "id": "0046",
+        "description": "Vestido mini sexy y elegante, escote v espalda descibierta con cadena",
+        "image_url": "",
+        "size": "M",
+        "color": "Burdeos",
+        "price": 12,
+        "currency": "USD"
+    },
+    {
+        "id": "0047",
+        "description": "Pantalon corto deportivo",
+        "image_url": "",
+        "size": "M",
+        "color": "Rosa",
+        "price": 4,
+        "currency": "USD"
+    }
+]
