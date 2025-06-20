@@ -6,7 +6,7 @@ const productos = [
         "image_url": "",
         "size": "M",
         color: "Gris",
-        precio: 15
+        precio: 4
     },
     {
         id: "0009",
