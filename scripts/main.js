@@ -2,10 +2,10 @@
 const productos = [
     {
         id: "0008",
-        desc: "Vestido ajustado y corto cuello alto conm mangas acampanadas",
+        desc: "Pantalon corto deportivo",
         "image_url": "",
         "size": "M",
-        color: "Rojo",
+        color: "Gris",
         precio: 15
     },
     {
